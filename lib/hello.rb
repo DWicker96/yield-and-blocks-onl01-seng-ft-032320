@@ -3,6 +3,7 @@ def hello_t(array)
 
     while i < array.length
       i = i + 
+  end
 end
 
 # call your method here!
